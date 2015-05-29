@@ -45,7 +45,7 @@ Feature: I would like to edit mammals
 
   Examples:
     |old-mammals     |new-mammals |new-weight|
-    |blue whale      |nowy        |50        |
+    |blue whale      |nowosc      |50        |
     |african elephan |nowyy       |40        |
 
 
@@ -64,6 +64,6 @@ Feature: I would like to edit mammals
 
   Examples:
     |mammals    |
-    |nowy       |
+    |nowosc     |
     |nowyy      |
     |white rhino|
